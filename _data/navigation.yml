@@ -1,12 +1,23 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Portfolio"
+    children:
+      - title: "Blacksmithing"
+        url: /portfolio/blacksmithing/
+      - title: "Knives"
+        url: /portfolio/knives/
+      - title: "Tools"
+        url: /portfolio/tools/
+  - title: "Custom Orders"
+    children:
+      - title: "How to Order"
+        url: /custom-orders/how-to-order/
+      - title: "Materials & Options"
+        url: /custom-orders/materials-options/
+  - title: "About"
+    children:
+      - title: "Bio & Experience"
+        url: /about/bio-experience/
+      - title: "Teaching & Classes"
+        url: /about/teaching-classes/
+  - title: "Contact"
+    url: /contact/
