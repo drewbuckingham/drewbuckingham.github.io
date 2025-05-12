@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Blacksmithing"
-permalink: /portfolio/blacksmithing/
+permalink: /portfolio/Blacksmithing/
 ---
 
 Welcome to my blacksmithing portfolio!  
